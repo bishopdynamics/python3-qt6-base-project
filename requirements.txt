@@ -1,0 +1,10 @@
+six
+pyyaml
+PyQt6
+PyInstaller
+
+# for reading xlsx files
+# openpyxl
+
+# for writing xlsx files
+# xlsxwriter
